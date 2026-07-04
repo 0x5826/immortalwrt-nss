@@ -27,6 +27,7 @@ ipq60xx_setup_interfaces()
 	glinet,gl-ax1800|\
 	jdcloud,re-cs-02|\
 	link,nn6000-v2|\
+	link,nn6000-v2-nowifi|\
 	linksys,mr7350|\
 	linksys,mr7500|\
 	yuncore,fap650)
@@ -36,6 +37,7 @@ ipq60xx_setup_interfaces()
 	cmiot,ax18|\
 	jdcloud,re-cs-07|\
 	jdcloud,re-ss-01|\
+	jdcloud,re-ss-01-nowifi|\
 	netgear,rbr350|\
 	philips,ly1800|\
 	redmi,ax5|\
